@@ -1,2 +1,3 @@
 # google_treads
-Consumindo api google treads com Python
+
+Consumindo dados simples da api Google Treads
